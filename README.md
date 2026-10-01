@@ -4,6 +4,8 @@ The TELEMETRY SBOM & CVE Generator supports firmware security assessment for ind
 
 The tool integrates the open-source [cve-bin-tool](https://github.com/intel/cve-bin-tool) into a workflow tailored to TELEMETRY project requirements and industrial partners’ use cases and operational scenarios.
 
+**A planned update will add CVE prioritization linked to the Devices Under Test (DUTs) and automated assessment workflows used in the TELEMETRY project.
+**
 **Key features**
 
 - SBOM generation from extracted firmware.
